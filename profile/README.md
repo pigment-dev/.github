@@ -1,2 +1,2 @@
-## Hi there 👋
-We are Pigment Dev, a Web/WordPress Development Agency.
+## Hi there 😍👋
+We’re Pigment Dev, the tech-driven branch of the creative powerhouse, [Pigment Agency](https://pigment.agency/). Our mission? To craft stellar WordPress plugins and web solutions that supercharge your site with style and functionality. Fueled by innovation and a love for clean code, we’re here to elevate your online game. Got questions or ideas? Reach out to us at [support (at) pigment (dot) dev](mailto:support@pigment.dev) — we’d love to collaborate and create something epic!
